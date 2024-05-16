@@ -1,0 +1,7 @@
+﻿  game.cpp
+C:\Users\Acer\Desktop\ProjectGame\ProjectGame\game.cpp(8,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Acer\Desktop\ProjectGame\ProjectGame\game.cpp(138,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\ProjectGame\ProjectGame\game.cpp(138,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  ProjectGame.vcxproj -> C:\Users\Acer\Desktop\ProjectGame\x64\Debug\ProjectGame.exe
